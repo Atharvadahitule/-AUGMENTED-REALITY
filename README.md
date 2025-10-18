@@ -26,7 +26,7 @@ Developed as part of the Computer Vision coursework at RWU Hochschule Ravensburg
 
 ## 📁 Folder Structure
 
-AugmentedReality_ARUCO/ ├── main.py                  # Main script 
+AugmentedReality ├── main.py                  # Main script 
 ├── requirements.txt         # Python dependencies 
 ├── README.md               # Project documentation 
 ├── input_images/            # Input images with ArUco markers 
@@ -43,8 +43,8 @@ AugmentedReality_ARUCO/ ├── main.py                  # Main script
 
 1. **Clone the repository**
 
-- git clone [https://github.com/Atharvadahitule/AugmentedReality_ARUCO.git](https://github.com/Atharvadahitule/-AUGMENTED-REALITY.git)
-- cd AugmentedReality_ARUCO
+- git clone [https://github.com/Atharvadahitule/AugmentedReality.git](https://github.com/Atharvadahitule/-AUGMENTED-REALITY.git)
+- cd AugmentedReality
 
 2. **Install dependencies**
    
@@ -63,7 +63,7 @@ python main.py
 
 🧪 Sample Output
 Here’s an example of the augmented result:
-[![Augmented Results](results/output_image8.jpg)](https://github.com/Atharvadahitule/AugmentedReality_ARUCO)
+[![Augmented Results](results/output_image8.jpg)](https://github.com/Atharvadahitule/AugmentedReality)
 Poster placed accurately on the wall using ArUco marker detection and homography transformation.
 
 
