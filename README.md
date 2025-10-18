@@ -43,7 +43,7 @@ AugmentedReality_ARUCO/ ├── main.py                  # Main script
 
 1. **Clone the repository**
 
-- git clone https://github.com/Atharvadahitule/AugmentedReality_ARUCO.git
+- git clone [https://github.com/Atharvadahitule/AugmentedReality_ARUCO.git](https://github.com/Atharvadahitule/-AUGMENTED-REALITY.git)
 - cd AugmentedReality_ARUCO
 
 2. **Install dependencies**
